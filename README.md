@@ -2,6 +2,7 @@
 
 A Rick And Morty simple app that displays information about each character to practice React Custom Hooks. 
 
+#### [Visite website](https://rick-and-morty-luciapeterlin.surge.sh/)
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRiNmQ2ZjA4ZTgxOWY1NzIwNDczOTY3Mzk3OWYzZGYyZWJiNDJiMSZjdD1n/GqsQgUQKftqIipo5Lm/giphy.gif)
 
 ## To use this project: 
